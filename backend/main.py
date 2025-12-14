@@ -254,3 +254,7 @@ def predict(payload: dict):
         "warnings": warnings,
         "s_wave_ring_max_km": max(v["distance_km"] for v in warnings.values())
     }
+    
+if __name__ == "__main__":
+    import uvicorn
+    uvicorn.run("main:app", host="0.0.0.0", port=8000)
