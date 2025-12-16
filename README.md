@@ -91,6 +91,26 @@ This makes the system **user-friendly and visual**.
 
 ---
 
+## Dataset
+
+The full earthquake dataset used in this project is large and cannot be
+uploaded directly to GitHub due to file size limitations.
+
+Therefore, the dataset is hosted externally. The links are provided below:
+
+Dataset File 1:
+https://drive.google.com/file/d/1FcO-pYkeWxe3fq7eougFuFEjWvtJiYD4/view?usp=drive_link
+Dataset File 2:
+https://drive.google.com/file/d/14ydiSR3SbDk6QtViUvuwCL1LHbvNaREx/view?usp=drive_link
+Dataset File 3:
+https://drive.google.com/file/d/11qWJJqKdHXWyPtSopWXOYZ2fHwTp7b-t/view?usp=drive_link
+
+Note:
+Only a trained model and sample data are included in this repository
+for easy testing and understanding.
+
+---
+
 ## 🚀 Key Features
 - AI-based earthquake epicenter prediction
 - Interactive map visualization
