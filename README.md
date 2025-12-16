@@ -123,26 +123,8 @@ for easy testing and understanding.
 ---
 
 ## 🗂 Project Structure
-EEW-project/
-│
-├── backend/
-│ ├── main.py
-│ ├── model_files/
-│ │ ├── japan_eew_model.pkl
-│ │ └── stations.csv
-│ ├── users.json
-│ └── requirements.txt
-│
-├── frontend/
-│ ├── index.html
-│ ├── predict.html
-│ ├── dataset.html
-│ ├── help.html
-│ └── assets/
-│
-├── .gitignore
-├── .gitattributes
-└── README.md
+
+<img width="1024" height="1536" alt="ChatGPT Image Dec 16, 2025, 08_14_28 PM" src="https://github.com/user-attachments/assets/999e9d29-b6b2-490f-92db-9898805e8a0b" />
 
 ---
 
